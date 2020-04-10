@@ -47,6 +47,6 @@ public class LogInActivity extends AppCompatActivity {
         });
     }
 
-    /* Test Branch */
+    /* Test Branch 2 */
 
 }

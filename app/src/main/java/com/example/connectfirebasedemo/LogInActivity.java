@@ -46,7 +46,7 @@ public class LogInActivity extends AppCompatActivity {
             }
         });
         
-        /* Test*/
+        /* Test master*/
     }
 
 

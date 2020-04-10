@@ -45,6 +45,10 @@ public class LogInActivity extends AppCompatActivity {
                 Toast.makeText(LogInActivity.this, "Successfully updatet the database", Toast.LENGTH_SHORT).show();
             }
         });
+
+        /*
+        TEST
+                */
     }
 
 

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Beerpong Project</string>
+    <string name="textView_enter_Email">Enter your E-mail address:</string>
+    <string name="editTest_Enter_EMail_LogInActivity">Enter your E-Mail</string>
+    <string name="editTexthin_enterNickName_LogInActivity">Enter a Nick name</string>
+    <string name="button_logIn_LogInActivity">Login</string>
+</resources>
